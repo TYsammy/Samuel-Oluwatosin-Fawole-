@@ -43,19 +43,25 @@ I enjoy solving real business problems with data, translating complex numbers in
 Power BI dashboard tracking revenue, customers and deliveries across booking types, load types and years.
 - **Insight:** Revenue is split almost evenly across Contract, Dedicated and Spot bookings (about 33% each), while a handful of accounts, led by XYZ Wholesale (£14.8M), drive the largest share of customer revenue.
 
-<img src="images/logistics-satisfaction-report.png" alt="Logistics Customer Satisfaction Report" width="700"/>
+<p align="center">
+  <a href="images/logistics-satisfaction-report.png"><img src="images/logistics-satisfaction-report.png" alt="Logistics Customer Satisfaction Report" width="700"/></a>
+</p>
 
 #### 📊 Customer Churn Report
 Power BI dashboard analysing why customers leave, by tenure, household profile and service type.
 - **Insight:** Churn stands at 27% (1,869 customers) and is highest among first-year customers (47%) and fiber optic users (42%). Customers without partners or dependents also churn more, which points to retention efforts for new and single-account customers.
 
-<img src="images/churn-report.png" alt="Customer Churn Report" width="700"/>
+<p align="center">
+  <a href="images/churn-report.png"><img src="images/churn-report.png" alt="Customer Churn Report" width="700"/></a>
+</p>
 
 #### 📊 Logistics Cost & SLA Risk Dashboard
 Power BI dashboard monitoring delivery costs by region, freight type and month, alongside SLA risk tiers.
 - **Insight:** Enugu has the highest regional cost (₦91K) and Abuja the lowest (₦66K). Costs peaked in July (₦167K), and 41% of deliveries sit in the "Warning" SLA tier, which flags a risk to watch before it turns critical.
 
-<img src="images/logistics-cost-sla-dashboard.png" alt="Logistics Cost and SLA Risk Dashboard" width="700"/>
+<p align="center">
+  <a href="images/logistics-cost-sla-dashboard.png"><img src="images/logistics-cost-sla-dashboard.png" alt="Logistics Cost and SLA Risk Dashboard" width="700"/></a>
+</p>
 
 ---
 
